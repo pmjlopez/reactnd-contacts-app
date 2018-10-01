@@ -186,3 +186,8 @@ body, .app {
   cursor: pointer;
   outline: none;
 }
+.container {
+  border: solid 1px #000;
+  margin: 1em;
+  padding: 1em;
+}
